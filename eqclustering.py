@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Copyright 2016 Mark Williams at Nevada Seismological Laboratory
-# Univertsity of Nevada, Reno
+# Copyright 2016 University of Nevada, Reno
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,6 +13,9 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+#
+# Author: Mark Williams, Nevada Seismological Laboratory, UNR
+#
 """
 eqclustering
 
